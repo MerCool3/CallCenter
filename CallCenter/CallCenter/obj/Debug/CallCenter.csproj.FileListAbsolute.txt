@@ -1,0 +1,6 @@
+c:\users\igor\documents\visual studio 2015\Projects\CallCenter\CallCenter\bin\Debug\CallCenter.exe.config
+c:\users\igor\documents\visual studio 2015\Projects\CallCenter\CallCenter\bin\Debug\CallCenter.exe
+c:\users\igor\documents\visual studio 2015\Projects\CallCenter\CallCenter\bin\Debug\CallCenter.pdb
+c:\users\igor\documents\visual studio 2015\Projects\CallCenter\CallCenter\obj\Debug\CallCenter.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2015\Projects\CallCenter\CallCenter\obj\Debug\CallCenter.exe
+c:\users\igor\documents\visual studio 2015\Projects\CallCenter\CallCenter\obj\Debug\CallCenter.pdb

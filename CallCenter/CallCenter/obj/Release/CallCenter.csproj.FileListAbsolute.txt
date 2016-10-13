@@ -1,0 +1,5 @@
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\CallCenter\CallCenter\bin\Release\CallCenter.exe.config
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\CallCenter\CallCenter\bin\Release\CallCenter.exe
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\CallCenter\CallCenter\bin\Release\CallCenter.pdb
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\CallCenter\CallCenter\obj\Release\CallCenter.exe
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\CallCenter\CallCenter\obj\Release\CallCenter.pdb
